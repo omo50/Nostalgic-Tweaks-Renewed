@@ -13,7 +13,7 @@
 #### Changelogs
 See the changelog in a branch for recent changes.
 
-# Nostalgic Tweaks Mod (Forge & Fabric)
+# Nostalgic Tweaks Renewed Mod (Forge & Fabric)
 [<img alt="CurseForge Download" src="https://img.shields.io/curseforge/dt/592465?logo=curseforge&label=CurseForge&color=e04e14">](https://www.curseforge.com/minecraft/mc-mods/nostalgic-tweaks-renewed)
 [<img alt="Modrinth Download" src="https://img.shields.io/modrinth/dt/l1rj36Ob?logo=modrinth&label=Modrinth&color=17b85a">](https://modrinth.com/mod/nostalgic-tweaks-renewed)
 [<img alt="Discord" src="https://img.shields.io/discord/452988045252100107?logo=discord&label=Discord&color=5865f2">](https://discord.gg/jWdfVh3)
@@ -22,11 +22,11 @@ See the changelog in a branch for recent changes.
 ![A picture of nostalgic Minecraft biomes](https://i.imgur.com/dUbuMyB.png)
 
 ## Mod Description
-Inspired by Exalm's **Old Days** mod, **Nostalgic Tweaks** brings back a plethora of **classic, alpha, beta, and post-release** lost or changed gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft Java edition by tweaking the mod to their nostalgic preference.
+Inspired by Exalm's **Old Days** mod, **Nostalgic Tweaks Renewed** brings back a plethora of **classic, alpha, beta, and post-release** lost or changed gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft Java edition by tweaking the mod to their nostalgic preference.
 
 Some of the major nostalgic tweaks included are **old classic and pre-beta 1.8 light engines**, **old fog rendering**, **old sky and void colors**, **2D floating items with disabled diffused lighting**, **old mob spawning**, **old combat mechanics**, **old game screens**, **old C418 music**, and **so much more**! There are currently over **400+** nostalgic tweaks as of 2.0.0-Beta 9 with more on the way!
 
-For the best nostalgic experience, I recommend using the **[Golden Days](https://github.com/PoeticRainbow/golden-days/releases)** resource pack by **PoeticRainbow**. It comes with an abundance of nostalgic packs, such as an alpha and picture perfect pack which coincides wonderfully with **Nostalgic Tweaks**. Additionally, use the **[Modern Beta](https://www.curseforge.com/minecraft/mc-mods/modern-beta)** mod by **b3spectacled** or **[Moderner Beta](https://modrinth.com/mod/moderner-beta)** by **BlueStaggo** for nostalgic terrain generation.
+For the best nostalgic experience, I recommend using the **[Golden Days](https://github.com/PoeticRainbow/golden-days/releases)** resource pack by **PoeticRainbow**. It comes with an abundance of nostalgic packs, such as an alpha and picture perfect pack which coincides wonderfully with **Nostalgic Tweaks Renewed**. Additionally, use the **[Modern Beta](https://www.curseforge.com/minecraft/mc-mods/modern-beta)** mod by **b3spectacled** or **[Moderner Beta](https://modrinth.com/mod/moderner-beta)** by **BlueStaggo** for nostalgic terrain generation.
  
 ## Configuration
 To open the mod's config menu, press **O** for "**Old**" while in-game or at the game's title screen. This hotkey can be changed in the vanilla controls menu or in the mod's config menu. If you have **[Mod Menu](https://modrinth.com/mod/modmenu)** installed for Fabric, then you can also access the configuration screen through the **Mods** button.
@@ -57,7 +57,7 @@ Yes! The mod is designed to disable tweaks that are not allowed on non-modded se
 
 ### Will there be any backport to version 1.x.x?
 
-Not for Nostalgic Tweaks. Use Adrenix's previous mod **[OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing)**, for versions 1.12, 1.16, and 1.17.
+Not for Nostalgic Tweaks Renewed. Use Adrenix's previous mod **[OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing)**, for versions 1.12, 1.16, and 1.17.
 
 ### I ran into an issue running this mod.
 
