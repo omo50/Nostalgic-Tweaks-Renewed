@@ -1,11 +1,8 @@
-# Mod Relicense
-As of August 15th, 2024, Nostalgic Tweaks is now under the LGPLv3 license. I can no longer provide continuous updates to the mod and I will be stepping away from development. All versions starting at `v2.0.0-beta.905` and later will use this license. Any mod developer(s) that would like to continue my work on this project may fork it and distribute their changes under a new mod name.
-
 # Development Branches
-- [1.21 (Beta 9)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.21) **LTS**
-- [1.20.6 (Beta 9)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.20.6) **Supported**
-- [1.20.4 (Beta 9)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.20.4) **Supported**
-- [1.20.1 (Beta 9)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.20.1) **LTS**
+- [1.21 (Beta 9)](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/tree/1.21) **LTS**
+- [1.20.6 (Beta 9)](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/tree/1.20.6) **Supported**
+- [1.20.4 (Beta 9)](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/tree/1.20.4) **Supported**
+- [1.20.1 (Beta 9)](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/tree/1.20.1) **LTS**
 - ~~[1.20 (Beta 8.4.1)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.20)~~ **Discontinued**
 - ~~[1.19.4 (Beta 8.4)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.19.4)~~ **Discontinued**
 - ~~[1.19.3 (Beta 8.4)](https://github.com/Adrenix/Nostalgic-Tweaks/tree/1.19.3)~~ **Discontinued**
@@ -17,8 +14,8 @@ As of August 15th, 2024, Nostalgic Tweaks is now under the LGPLv3 license. I can
 See the changelog in a branch for recent changes.
 
 # Nostalgic Tweaks Mod (Forge & Fabric)
-[<img alt="CurseForge Download" src="https://img.shields.io/curseforge/dt/592465?logo=curseforge&label=CurseForge&color=e04e14">](https://www.curseforge.com/minecraft/mc-mods/nostalgic-tweaks)
-[<img alt="Modrinth Download" src="https://img.shields.io/modrinth/dt/l1rj36Ob?logo=modrinth&label=Modrinth&color=17b85a">](https://modrinth.com/mod/nostalgic-tweaks)
+[<img alt="CurseForge Download" src="https://img.shields.io/curseforge/dt/592465?logo=curseforge&label=CurseForge&color=e04e14">](https://www.curseforge.com/minecraft/mc-mods/nostalgic-tweaks-renewed)
+[<img alt="Modrinth Download" src="https://img.shields.io/modrinth/dt/l1rj36Ob?logo=modrinth&label=Modrinth&color=17b85a">](https://modrinth.com/mod/nostalgic-tweaks-renewed)
 [<img alt="Discord" src="https://img.shields.io/discord/452988045252100107?logo=discord&label=Discord&color=5865f2">](https://discord.gg/jWdfVh3)
 [<img alt="Donate on Ko-fi" src="https://img.shields.io/badge/Donate-Ko--fi-fb6161?logo=kofi">](https://ko-fi.com/adrenix)
 ![Nostalgic Tweaks by Adrenix](https://i.imgur.com/1Nd06WK.png)
@@ -60,8 +57,8 @@ Yes! The mod is designed to disable tweaks that are not allowed on non-modded se
 
 ### Will there be any backport to version 1.x.x?
 
-Not for Nostalgic Tweaks. Use my previous mod **[OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing)**, for versions 1.12, 1.16, and 1.17.
+Not for Nostalgic Tweaks. Use Adrenix's previous mod **[OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing)**, for versions 1.12, 1.16, and 1.17.
 
 ### I ran into an issue running this mod.
 
-Please make a report [here](https://github.com/Adrenix/Nostalgic-Tweaks/issues).
+Please make a report [here](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/issues).
