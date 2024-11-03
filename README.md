@@ -20,7 +20,7 @@ See the changelog in a branch for recent changes.
 [<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">
 ](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed) [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/nt-renewed) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net) [<img alt="discord-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg">](https://discord.gg/BXkUxFDz8c) [<img alt="architectury-api" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/architectury-api_vector.svg">](https://modrinth.com/mod/architectury-api) [<img alt="website" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg">](https://lceprojects.com) 
 
-Thanks to Adrenix for making the original Nostalgic Tweaks!
+Thanks to **Adrenix** for making the original **Nostalgic Tweaks**!
 
 ## What's different from the original Nostalgic Tweaks?
 - Legacy4J support (WIP)
@@ -28,6 +28,20 @@ Thanks to Adrenix for making the original Nostalgic Tweaks!
 - Sodium 0.6 support
 - 1.21.1+ support
 - And more!
+
+### New Tweaks
+- Disable Crawling
+- Disable Sneaking Under Slabs
+- Sunset/Sunrise Type (Modes are: Java, Xbox 360 TU1, Xbox 360 TU5)
+- Xbox 360 Blue Void Color
+- Disable Golems
+- Disable Cocoa Beans Placement
+- Disable Bonemealing Water
+- Disable Soul Fire
+- Disable Bonemealing Short Grass
+- Disable Tall Grass From Bonemeal
+- Disable Axe Stripping
+- Disable Shovel Pathing
 
 ## Mod Description
 Inspired by Exalm's **Old Days** mod, **Nostalgic Tweaks: Renewed** brings back a plethora of **classic, alpha, beta, and post-release** lost or changed gameplay elements. This mod is intended for nostalgic enthusiasts who want to relive the glory days of Minecraft Java edition by tweaking the mod to their nostalgic preference.
@@ -45,19 +59,18 @@ The config menu comes with searching capabilities. Search queries that are typed
 
 The config menu also comes with keyboard shortcuts. **Ctrl + F** focuses the search box, **Ctrl + S** saves the config menu, **Esc** exits the config menu, and **Ctrl + Left Arrow**, **Alt + Left Arrow**, **Ctrl + Right Arrow**, or **Alt + Right Arrow** will change the category group you are in without the need to click on a category button. You can also use the **Tab** key and **Directional Arrow** keys to cycle through and navigate the various widgets in the menu. Press the **Spacebar** key or **Enter** key to perform an action on the highlighted element.
 
+## Discord
+
+Join our **[Discord](https://discord.gg/BXkUxFDz8c)** to talk with the developers of this project, talk with other members of the community, and **suggest features** to be added to Nostalgic Tweaks: Renewed!
+
 ## FAQ
-### Does this mod have a dedicated discord server?
-
-Yes we do! And this is definitely a place where you can come by to share ideas, report issues, and/or just hangout to see what's new.
-https://discord.gg/BXkUxFDz8c
-
 ### What resource pack is used in the demo video and screenshots?
 
 It is the [Golden Days](https://modrinth.com/resourcepack/golden-days) resource pack by **PoeticRainbow**. There is also a button in the mod's settings homepage that links the resource pack as well.
 
 ### Can I include this mod in my pack?
 
-If your mod pack is distributed on CurseForge or Modrinth, then yes!
+If your mod pack is distributed on Modrinth, then yes!
 
 ### Is this mod server safe?
 
@@ -65,7 +78,7 @@ Yes! The mod is designed to disable tweaks that are not allowed on non-modded se
 
 ### Will there be any backport to version 1.x.x?
 
-Not for Nostalgic Tweaks: Renewed. Either use the original [Nostalgic Tweaks](https://modrinth.com/mod/nostalgic-tweaks) or Adrenix's previous mod **[OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing)**.
+Not for Nostalgic Tweaks: Renewed. Either use the original **[Nostalgic Tweaks](https://modrinth.com/mod/nostalgic-tweaks)** or Adrenix's previous mod **[OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing)**.
 
 ### I ran into an issue running this mod.
 
