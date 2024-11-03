@@ -16,7 +16,7 @@ See the changelog in a branch for recent changes.
 # Nostalgic Tweaks: Renewed (NeoForge & Fabric)
 [<img alt="Modrinth Download" src="https://img.shields.io/modrinth/dt/l1rj36Ob?logo=modrinth&label=Modrinth&color=17b85a">](https://modrinth.com/mod/nt-renewed)
 [<img alt="Discord" src="https://img.shields.io/discord/452988045252100107?logo=discord&label=Discord&color=5865f2">](https://discord.gg/BXkUxFDz8c)
-![Nostalgic Tweaks: Renewed by Legacy Projects, Adrenix](https://i.imgur.com/1Nd06WK.png)
+![Nostalgic Tweaks: Renewed by Legacy Projects, Adrenix](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/blob/data/nt-renewed-title.png?raw=true)
 ![A picture of nostalgic Minecraft biomes](https://i.imgur.com/dUbuMyB.png)
 
 ## What's different from the original Nostalgic Tweaks?
