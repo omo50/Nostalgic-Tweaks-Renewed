@@ -19,6 +19,8 @@ See the changelog in a branch for recent changes.
 ![Nostalgic Tweaks: Renewed by Legacy Projects, Adrenix](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/blob/data/nt-renewed-title.png?raw=true)
 ![A picture of nostalgic Minecraft biomes](https://i.imgur.com/dUbuMyB.png)
 
+Thanks to Adrenix for making the original Nostalgic Tweaks!
+
 ## What's different from the original Nostalgic Tweaks?
 - Legacy4J support (WIP)
 - Tons of new tweaks
