@@ -14,10 +14,11 @@
 See the changelog in a branch for recent changes.
 
 # Nostalgic Tweaks: Renewed (NeoForge & Fabric)
-[<img alt="Modrinth Download" src="https://img.shields.io/modrinth/dt/l1rj36Ob?logo=modrinth&label=Modrinth&color=17b85a">](https://modrinth.com/mod/nt-renewed)
-[<img alt="Discord" src="https://img.shields.io/discord/452988045252100107?logo=discord&label=Discord&color=5865f2">](https://discord.gg/BXkUxFDz8c)
+
 ![Nostalgic Tweaks: Renewed by Legacy Projects, Adrenix](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed/blob/data/nt-renewed-title.png?raw=true)
 ![A picture of nostalgic Minecraft biomes](https://i.imgur.com/dUbuMyB.png)
+[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">
+](https://github.com/MC-Legacy-Projects/Nostalgic-Tweaks-Renewed) [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/nt-renewed) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net) [<img alt="discord-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg">](https://discord.gg/BXkUxFDz8c) [<img alt="architectury-api" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/architectury-api_vector.svg">](https://modrinth.com/mod/architectury-api) [<img alt="website" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg">](https://lceprojects.com) 
 
 Thanks to Adrenix for making the original Nostalgic Tweaks!
 
